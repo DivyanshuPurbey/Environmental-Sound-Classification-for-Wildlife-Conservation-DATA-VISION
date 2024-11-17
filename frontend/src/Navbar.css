@@ -1,0 +1,12 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    background-color: #282c34;
+    padding: 1rem;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .navbar-item {
+    cursor: pointer;
+  }

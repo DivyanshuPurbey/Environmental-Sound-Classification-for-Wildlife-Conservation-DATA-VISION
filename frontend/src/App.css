@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+body {
+  background-image: url('C:\Users\divya\Downloads\Project\Environmental-Sound-Classification-for-Wildlife-Conservation-DATA-VISION\frontend\src\bg.jpg'); 
+  background-size: cover;
+  background-attachment: fixed;
+  
+}
